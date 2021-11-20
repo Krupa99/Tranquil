@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Tranquil/app/src/main/res/drawable/buttontextcolor.xml" value="0.25833333333333336" />
         <entry key="..\:/Tranquil/app/src/main/res/drawable/custombg.xml" value="0.2" />
+        <entry key="..\:/Tranquil/app/src/main/res/drawable/fixnav.xml" value="0.25833333333333336" />
         <entry key="..\:/Tranquil/app/src/main/res/layout/activity_book.xml" value="0.2265625" />
         <entry key="..\:/Tranquil/app/src/main/res/layout/activity_comic.xml" value="0.228125" />
         <entry key="..\:/Tranquil/app/src/main/res/layout/activity_fiction.xml" value="0.2421875" />
@@ -26,6 +27,19 @@
         <entry key="..\:/Tranquil/app/src/main/res/layout/activity_video.xml" value="0.2265625" />
         <entry key="..\:/Tranquil/app/src/main/res/layout/activity_waitingpg.xml" value="0.2421875" />
         <entry key="..\:/Tranquil/app/src/main/res/layout/activity_yoga.xml" value="0.2265625" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_book.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_comic.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_fiction.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_main_page1.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_music_categories.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_music_player.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_nonfic.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_signuppg.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_signuppg2.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_signuppg3.xml" value="0.22552083333333334" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_video.xml" value="0.2421875" />
+        <entry key="..\:/Tranquil1/app/src/main/res/layout/activity_yoga.xml" value="0.2" />
         <entry key="..\:/Users/Vijay/AndroidStudioProjects/Tranquil/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1685185185185185" />
         <entry key="..\:/Users/Vijay/AndroidStudioProjects/Tranquil/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1685185185185185" />
         <entry key="..\:/Users/Vijay/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_main.xml" value="0.1" />
@@ -41,7 +55,16 @@
         <entry key="..\:/Users/Vijay/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_signuppg2.xml" value="0.1331521739130435" />
         <entry key="..\:/Users/Vijay/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_signuppg3.xml" value="0.1331521739130435" />
         <entry key="..\:/Users/Vijay/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_waitingpg.xml" value="0.12047101449275362" />
-        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_yoga.xml" value="0.1" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_book.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_comic.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_music_categories.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_music_player.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_page2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_yoga.xml" value="0.2" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_yoga1.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_yoga2.xml" value="0.264" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_yoga3.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/dwija/AndroidStudioProjects/Tranquil/app/src/main/res/layout/activity_yoga4.xml" value="0.13020833333333334" />
       </map>
     </option>
   </component>
